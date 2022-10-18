@@ -1,0 +1,12 @@
+name = "qtheme"
+license = "MIT"
+licenselink = "https://github.com/qtekfun/qtheme/blob/master/LICENSE"
+description = "My own theme, initially for comidistafoodie.com but let's wait for it."
+homepage = "https://qtekfun.com"
+tags = []
+features = []
+min_version = "0.104"
+
+[author]
+  name = "qtekfun"
+  homepage = "https://qtekfun.com"
